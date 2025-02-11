@@ -352,7 +352,6 @@ ul {
 }
 /* end landing2 */
 
-
 /* start portfolio */
 .portfolio {
     padding-top: var(--section-padding);
@@ -392,8 +391,6 @@ ul {
         grid-template-columns: repeat(auto-fill , minmax(400px , 1fr));
     } 
 }
-
-
 
 .portfolio  .images-grid img {
     max-width: 100%;
@@ -450,13 +447,9 @@ ul {
     font-weight: bold;
 }
 
-
-
 /* end the hover */
 
 /* end portfolio */
-
-
 
 /* start landing3 */
 
@@ -509,15 +502,12 @@ ul {
 }
 /* end  landing3 */
 
-
 /* start about  */
 .about {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     position: relative;
 }
-
-
 
 .about .about-content .image img {
     max-width: 100%;
@@ -671,10 +661,7 @@ ul {
     top: calc(0px - 10px);
 }
 
-
 /* end about */
-
-
 
 /* start quote */
 .quote {
@@ -702,8 +689,6 @@ ul {
     top: 70%;
     font-size: 1rem;
 }
-
-
 
 /* end quote */
 
@@ -824,8 +809,6 @@ ul {
 
 /* end pricing */
 
-
-
 /* start email  */
 
 .email {
@@ -920,10 +903,6 @@ ul {
     }
 }
 
-.contact .contact-content form {
-
-}
-
 @media (min-width:768px) {
     .contact .contact-content form {
         flex-basis: 70%;
@@ -979,27 +958,8 @@ ul {
     color: #777;
     margin-bottom: 15px;
 }
-.contact .contact-content .call .adress {
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* end  contact */
-
 
 /* start footer */
 .footer {
